@@ -1,0 +1,13 @@
+*.vcd
+*.vvp
+*.sim
+*.log
+
+*_sim
+*_sim.exe
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
