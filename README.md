@@ -137,8 +137,8 @@ Simulation waveforms are used to inspect signals and validate the behavior of in
 * [x] Instruction Memory
 * [x] Data Memory
 * [x] Immediate/Sign Extension
-* [ ] Program Counter
-* [ ] Branch/Jump Logic
+* [x] Program Counter
+* [x ] Branch/Jump Logic
 
 ### Phase 2 — Single-Cycle Processor
 
